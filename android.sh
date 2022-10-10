@@ -40,5 +40,5 @@ echo "⛓️ Lazımlı kiçik fayllar yüklənir"
 echo -e $BOSLUQ
 cd brend
 pip3 install -U -r requirements.txt
-python3 -m genceli_installer
+python3 -m brend_installer
 
