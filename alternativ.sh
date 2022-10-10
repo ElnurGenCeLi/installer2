@@ -47,5 +47,5 @@ echo -e $BOSLUQ
 cd brend
 pip install wheel
 pip install -U -r requirements.txt
-python -m genceli_installer
+python -m brend_installer
 
